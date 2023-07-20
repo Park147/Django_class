@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>게시물 보기, 수정</h2>
+<form method="post" name="form1" enctype=multipart/form-data>
+
+
+</form>
+</body>
+</html>

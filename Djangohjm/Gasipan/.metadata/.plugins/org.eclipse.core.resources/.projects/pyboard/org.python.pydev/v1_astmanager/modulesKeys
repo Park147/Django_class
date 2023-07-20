@@ -1,0 +1,16 @@
+MODULES_MANAGER_V3
+board.__init__|C:\Users\ghkdw\Documents\Django\pyboard\board\__init__.py
+board.admin|C:\Users\ghkdw\Documents\Django\pyboard\board\admin.py
+board.apps|C:\Users\ghkdw\Documents\Django\pyboard\board\apps.py
+board.migrations.0001_initial|C:\Users\ghkdw\Documents\Django\pyboard\board\migrations\0001_initial.py
+board.migrations.0002_comment|C:\Users\ghkdw\Documents\Django\pyboard\board\migrations\0002_comment.py
+board.migrations.__init__|C:\Users\ghkdw\Documents\Django\pyboard\board\migrations\__init__.py
+board.models|C:\Users\ghkdw\Documents\Django\pyboard\board\models.py
+board.tests|C:\Users\ghkdw\Documents\Django\pyboard\board\tests.py
+board.views|C:\Users\ghkdw\Documents\Django\pyboard\board\views.py
+manage|C:\Users\ghkdw\Documents\Django\pyboard\manage.py
+pyboard.__init__|C:\Users\ghkdw\Documents\Django\pyboard\pyboard\__init__.py
+pyboard.asgi|C:\Users\ghkdw\Documents\Django\pyboard\pyboard\asgi.py
+pyboard.settings|C:\Users\ghkdw\Documents\Django\pyboard\pyboard\settings.py
+pyboard.urls|C:\Users\ghkdw\Documents\Django\pyboard\pyboard\urls.py
+pyboard.wsgi|C:\Users\ghkdw\Documents\Django\pyboard\pyboard\wsgi.py
